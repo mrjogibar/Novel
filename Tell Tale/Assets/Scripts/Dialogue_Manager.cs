@@ -23,6 +23,6 @@ public class Dialogue_Manager : MonoBehaviour {
 	{
         //set and play the audio-clip
         audio = passedClip;
-        audio.PlayOneShot ();
+        GetComponent<AudioSource>().PlayOneShot ();
 	}
 }
