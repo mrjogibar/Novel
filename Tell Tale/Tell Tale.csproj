@@ -80,9 +80,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BTN_Manager.cs" />
     <Compile Include="Assets\Scripts\CharacterMove.cs" />
+    <Compile Include="Assets\Scripts\Dialogue_Manager.cs" />
     <Compile Include="Assets\Scripts\DoorAction.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
+    <Compile Include="Assets\Scripts\Narrator.cs" />
     <Compile Include="Assets\Scripts\SchatzEinsammeln.cs" />
     <Compile Include="Assets\Scripts\Teleporter.cs" />
   </ItemGroup>
