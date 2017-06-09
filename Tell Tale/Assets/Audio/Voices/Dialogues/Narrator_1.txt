@@ -1,0 +1,5 @@
+<time/>000.600|Test.
+<time/>001.400|<break/>
+<time/>001.900|Test.
+<time/>002.500|<break/>
+<time/>003.500|Das war auch schon alles.

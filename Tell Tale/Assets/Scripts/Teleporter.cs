@@ -25,6 +25,8 @@ public class Teleporter : MonoBehaviour
 		if (other.tag == "Player") {
 
 			other.transform.position = Ziel.transform.position;
+			GetComponent<AudioSource>().Play();
+            Debug.Log("Bäm-Sound!!");
 		}
 	}
 
